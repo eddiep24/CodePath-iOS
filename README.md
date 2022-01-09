@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Keyboard is numberic and UI is custom!
+- [X] Keyboard is numeric and UI is custom!
 
 ## Video Walkthrough
 
