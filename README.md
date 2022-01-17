@@ -5,7 +5,7 @@
 
 Submitted by: Edmond (Eddie) Phillips
 
-Time spent: 13 hours spent in total
+Time spent: 15 hours spent in total
 
 ## User Stories
 
