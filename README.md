@@ -17,14 +17,15 @@ The following **required** functionality is complete:
 The following **optional** features are implemented:
 
 * [X] UI animations
-* [X] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [X] Keyboard is numeric
-- Settings View Controller (Although not working)
+- [X] User can select between light and dark mode
+- [X] Functional Settings View where the user can split the bill with a specific party size.
+
 
 ## Video Walkthrough
 
@@ -36,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-While building the app there were many concepts I wasn't familiar with that I had to familiarize myself with.  One of the easier tasks I tried implementing was the UITextFieldDelegate.  Some things that I was stuck on for hours was getting the keyboard to appear, changing variable values across views, app life cycle functions, and the paradigm Swift uses.
+While building the app there were many concepts I wasn't familiar with that I had to familiarize myself with.  One of the easier tasks I tried implementing was the UITextFieldDelegate.  Initially there was a learning curve that I had to overcome, but once I got the feel for the environment, learning the harder concepts became easier.
 
 ## License
 
